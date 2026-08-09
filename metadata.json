@@ -1,0 +1,6 @@
+{
+  "name": "Arjun Singh Ghatang Official Website",
+  "description": "Official portfolio, YouTube video portal, BBS study resources, help desk, search & categories, and office location directory for Arjun Singh Ghatang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
